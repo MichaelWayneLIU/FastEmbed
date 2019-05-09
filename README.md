@@ -1,2 +1,2 @@
 # FastEmbed
-Data sets for FastEmbed
+Data sets for fastEmbed
